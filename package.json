@@ -13,7 +13,8 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "bootstrap-vue": "^2.0.0-rc.2",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {
