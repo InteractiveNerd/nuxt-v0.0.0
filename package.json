@@ -1,8 +1,8 @@
 {
-  "name": "first-project",
+  "name": "First Nuxt View Sandbox",
   "version": "1.0.0",
-  "description": "nuxt.js first project test",
-  "author": "Henry Richardson <hrichardson83@gmail.com>",
+  "description": "Nuxt, Vue, Greensock, Bootstrap, ScrollMonitor",
+  "author": "Github - @Noximus",
   "private": true,
   "scripts": {
     "dev": "nuxt",
