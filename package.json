@@ -1,8 +1,8 @@
 {
-  "name": "First Nuxt View Sandbox",
+  "name": "First-Nuxt-View-Sandbox",
   "version": "1.0.0",
-  "description": "Nuxt, Vue, Greensock, Bootstrap, ScrollMonitor",
-  "author": "Github - @Noximus",
+  "description": "Nuxt Vue Greensock Bootstrap ScrollMonitor",
+  "author": "Github  - Noximus",
   "private": true,
   "scripts": {
     "dev": "nuxt",
